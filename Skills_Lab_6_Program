@@ -2,5 +2,13 @@ name = input("Enter your name: ")
 
 age = int(input("Enter your age: "))
 months = age * 12
+days = months * 30
+hours = days * 24
+minutes = hours * 60
+seconds = minutes * 60
 
 print(f"Hello, {name}. You are {months} months old.")
+print(f"You are {days} days old.")
+print(f"You are {hours} hours old.")
+print(f"You are {minutes} minutes old.")
+print(f"You are {seconds} seconds old.")
