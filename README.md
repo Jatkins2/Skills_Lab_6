@@ -1,6 +1,6 @@
 # Skills_Lab_6
 
-This program will take the name of a person, ask for thier age in years, and then convert it into months with calculations, then days, hours, and seconds . 
+This program will take the name of a person, ask for their age in years, and then convert it into months with calculations, then days, hours, and seconds. 
 This data is then printed for each conversion for the user to see.
 
 This could be used by anyone who is curious of their actual age (years) down to the number of seconds alive.
